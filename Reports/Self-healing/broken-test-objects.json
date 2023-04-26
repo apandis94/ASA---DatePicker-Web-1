@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Buat Job Untuk Pekerjaan Private  Publ_263243/span_Februari 2023",
+      "brokenLocator": "id(\"jobPostClosed\")/div[@class\u003d\"datepicker__header__Wc85P\"]/div[@class\u003d\"center__3_mnC text-bold\"]/span[1][count(. | //*[(text() \u003d \u0027Juni 2023\u0027 or . \u003d \u0027Juni 2023\u0027)]) \u003d count(//*[(text() \u003d \u0027Juni 2023\u0027 or . \u003d \u0027Juni 2023\u0027)])]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027jobPostClosed\u0027]/div/div/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Buat Job Untuk Pekerjaan Private  Publ_263243/span_Februari 2023_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Baru/Page_Buat Job Untuk Pekerjaan Private  Publ_263243/div_14",
+      "brokenLocator": "id(\"14_date_number_item\")/div[@class\u003d\"date_number_item__2OtuM\"][count(. | //*[(text() \u003d \u002718\u0027 or . \u003d \u002718\u0027)]) \u003d count(//*[(text() \u003d \u002718\u0027 or . \u003d \u002718\u0027)])]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//a[@id\u003d\u002714_date_number_item\u0027]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Baru/Page_Buat Job Untuk Pekerjaan Private  Publ_263243/div_14_XPATH.png"
+    }
+  ]
+}
