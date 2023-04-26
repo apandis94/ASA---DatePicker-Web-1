@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Date Picker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7668178e-e7b5-407a-8923-107e2e59bf7d</testCaseGuid>
+   <variable>
+      <defaultValue>'25'</defaultValue>
+      <description></description>
+      <id>dcc4fb20-d8fd-42b3-a8f5-98cf05203199</id>
+      <masked>false</masked>
+      <name>tanggal</name>
+   </variable>
+   <variable>
+      <defaultValue>'Oktober 2023'</defaultValue>
+      <description></description>
+      <id>c00795ea-7c52-417c-8b61-e495096f7128</id>
+      <masked>false</masked>
+      <name>bulan</name>
+   </variable>
+</TestCaseEntity>
